@@ -23,4 +23,3 @@ if (anni < 18) {
 
 // Formattazione del costo a due decimali
 costo = costo.toFixed(2);
-
